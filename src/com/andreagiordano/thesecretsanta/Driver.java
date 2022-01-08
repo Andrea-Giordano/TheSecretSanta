@@ -1,3 +1,11 @@
+package com.andreagiordano.thesecretsanta;
+
+import com.andreagiordano.thesecretsanta.config.ParticipantsConfig;
+import com.andreagiordano.thesecretsanta.core.Credentials;
+import com.andreagiordano.thesecretsanta.core.NotificationSender;
+import com.andreagiordano.thesecretsanta.model.ConditionsGroup;
+import com.andreagiordano.thesecretsanta.model.Participant;
+
 import java.util.List;
 
 public class Driver {

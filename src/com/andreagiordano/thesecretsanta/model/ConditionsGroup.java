@@ -1,3 +1,7 @@
+package com.andreagiordano.thesecretsanta.model;
+
+import com.andreagiordano.thesecretsanta.config.ConditionsConfig;
+
 import java.util.List;
 import java.util.Random;
 

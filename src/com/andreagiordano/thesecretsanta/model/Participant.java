@@ -1,7 +1,9 @@
+package com.andreagiordano.thesecretsanta.model;
+
 public class Participant {
 
-    private String name;
-    private String email;
+    private final String name;
+    private final String email;
 
     public Participant(String name, String email) {
         this.name = name;

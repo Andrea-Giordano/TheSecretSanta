@@ -1,7 +1,12 @@
+package com.andreagiordano.thesecretsanta.core;
+
+import com.andreagiordano.thesecretsanta.model.Participant;
+
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import java.util.Properties;
+
 import static org.apache.commons.text.StringEscapeUtils.escapeHtml4;
 
 

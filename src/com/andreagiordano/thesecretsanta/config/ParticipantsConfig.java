@@ -1,3 +1,7 @@
+package com.andreagiordano.thesecretsanta.config;
+
+import com.andreagiordano.thesecretsanta.model.Participant;
+
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
