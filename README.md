@@ -27,7 +27,7 @@ I'm assuming you know how to download it and how to use a terminal.
 First of all, edit the resources/participants.txt and the resources/conditions.txt file with the name and emails of your friends and the constraints for your gifts.
 Secondly, you need a valid email to send your friends notifications.
 
-When you're, just run the application passing as param the email and password of the email. The application will take care of
+When you're ready, just run the application passing as param the email and password of the sender email. The application will take care of drawing pairs of secret santas and recipients and will send the formers an email with the instructions to make their gift. 
 
 
 ## Is there a UI/Runnable to launch it?
